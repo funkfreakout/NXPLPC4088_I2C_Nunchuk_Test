@@ -1,0 +1,143 @@
+Dependencies for Project 'i2c_wii', Target 'Target 1': (DO NOT MODIFY !)
+F (.\font8x16.c)(0x55584D5A)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\font8x16.o --omf_browse .\objects\font8x16.crf --depend .\objects\font8x16.d)
+F (.\font16x32.c)(0x5694E054)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\font16x32.o --omf_browse .\objects\font16x32.crf --depend .\objects\font16x32.d)
+I (font.h)(0x53443F9A)
+F (.\glcd.c)(0x55599ADA)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\glcd.o --omf_browse .\objects\glcd.crf --depend .\objects\glcd.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FE932)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF15BCA)
+I (glcd.h)(0x55584C60)
+I (sdram.h)(0x547094FC)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5419F1DC)
+F (.\i2c0_lpc4088.c)(0x56A9F963)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\i2c0_lpc4088.o --omf_browse .\objects\i2c0_lpc4088.crf --depend .\objects\i2c0_lpc4088.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FE932)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF15BCA)
+I (i2c0_lpc4088.h)(0x56AB916C)
+F (.\main.c)(0x56C07EE3)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FE932)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF15BCA)
+I (i2c0_lpc4088.h)(0x56AB916C)
+I (nunchuk.h)(0x56A9EDA5)
+I (glcd.h)(0x55584C60)
+I (sdram.h)(0x547094FC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5419F1DC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5419F1DC)
+I (timer0_lpc4088.h)(0x555B7510)
+I (timer1_lpc4088.h)(0x56C07A4F)
+I (rtc_lpc4088.h)(0x56168886)
+I (bmp.h)(0x56B9C467)
+I (.\FatFs\src\ff.h)(0x5188D012)
+I (.\FatFs\src\integer.h)(0x5188CA30)
+I (.\FatFs\src\ffconf.h)(0x52174576)
+I (wav_file.h)(0x56B9C4D3)
+I (sonido.h)(0x5671D394)
+F (.\nunchuk.c)(0x56AA08C3)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\nunchuk.o --omf_browse .\objects\nunchuk.crf --depend .\objects\nunchuk.d)
+I (i2c0_lpc4088.h)(0x56AB916C)
+I (nunchuk.h)(0x56A9EDA5)
+F (.\sdram.c)(0x563277DA)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\sdram.o --omf_browse .\objects\sdram.crf --depend .\objects\sdram.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FE932)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF15BCA)
+I (sdram.h)(0x547094FC)
+F (.\timer0_lpc4088.c)(0x555B752A)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\timer0_lpc4088.o --omf_browse .\objects\timer0_lpc4088.crf --depend .\objects\timer0_lpc4088.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FE932)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF15BCA)
+I (timer0_lpc4088.h)(0x555B7510)
+F (.\FatFs\src\diskio.c)(0x54BC1674)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\diskio.o --omf_browse .\objects\diskio.crf --depend .\objects\diskio.d)
+I (FatFs\src\diskio.h)(0x5188CA2E)
+I (FatFs\src\integer.h)(0x5188CA30)
+I (.\sd_lpc4088_mci.h)(0x56BB02C2)
+F (.\FatFs\src\ff.c)(0x5188CA30)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\ff.o --omf_browse .\objects\ff.crf --depend .\objects\ff.d)
+I (FatFs\src\ff.h)(0x5188D012)
+I (FatFs\src\integer.h)(0x5188CA30)
+I (FatFs\src\ffconf.h)(0x52174576)
+I (FatFs\src\diskio.h)(0x5188CA2E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x5419F1DC)
+F (.\rtc_lpc4088.c)(0x5616B814)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\rtc_lpc4088.o --omf_browse .\objects\rtc_lpc4088.crf --depend .\objects\rtc_lpc4088.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FE932)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF15BCA)
+I (rtc_lpc4088.h)(0x56168886)
+F (.\sd_lpc4088_mci.c)(0x564506EE)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\sd_lpc4088_mci.o --omf_browse .\objects\sd_lpc4088_mci.crf --depend .\objects\sd_lpc4088_mci.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FE932)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF15BCA)
+I (sd_lpc4088_mci.h)(0x56BB02C2)
+I (.\FatFs\src\diskio.h)(0x5188CA2E)
+I (.\FatFs\src\integer.h)(0x5188CA30)
+I (rtc_lpc4088.h)(0x56168886)
+F (.\soporte_nombres_largos.c)(0x5476F79A)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\soporte_nombres_largos.o --omf_browse .\objects\soporte_nombres_largos.crf --depend .\objects\soporte_nombres_largos.d)
+I (.\FatFs\src\ff.h)(0x5188D012)
+I (.\FatFs\src\integer.h)(0x5188CA30)
+I (.\FatFs\src\ffconf.h)(0x52174576)
+F (.\wav_file.h)(0x56B9C4D3)()
+F (.\dac_lpc4088.c)(0x5671C45C)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\dac_lpc4088.o --omf_browse .\objects\dac_lpc4088.crf --depend .\objects\dac_lpc4088.d)
+I (dac_lpc4088.h)(0x5671CA3C)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FE932)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF15BCA)
+F (.\sonido.c)(0x56BB07A8)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\sonido.o --omf_browse .\objects\sonido.crf --depend .\objects\sonido.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FE932)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF15BCA)
+I (sonido.h)(0x5671D394)
+I (dac_lpc4088.h)(0x5671CA3C)
+F (.\timer1_lpc4088.c)(0x56C07950)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\timer1_lpc4088.o --omf_browse .\objects\timer1_lpc4088.crf --depend .\objects\timer1_lpc4088.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FE932)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF15BCA)
+I (timer1_lpc4088.h)(0x56C07A4F)
+F (.\timer1_lpc4088.h)(0x56C07A4F)()
+F (RTE\Device\LPC4088FET208\RTE_Device.h)(0x568E4358)()
+F (RTE\Device\LPC4088FET208\startup_LPC407x_8x_177x_8x.s)(0x4FB9E3FE)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include--pd "_RTE_ SETA 1" --pd "CORE_M4 SETA 1"--list .\listings\startup_lpc407x_8x_177x_8x.lst --xref -o .\objects\startup_lpc407x_8x_177x_8x.o --depend .\objects\startup_lpc407x_8x_177x_8x.d)
+F (RTE\Device\LPC4088FET208\system_LPC407x_8x_177x_8x.c)(0x567955BE)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\FatFs\src -I.-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE-I C:\Users\Francisco\Documents\gii\dbm\i2c0_lpc4088\RTE\Device\LPC4088FET208-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0-I C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include-D_RTE_ -DCORE_M4-o .\objects\system_lpc407x_8x_177x_8x.o --omf_browse .\objects\system_lpc407x_8x_177x_8x.crf --depend .\objects\system_lpc407x_8x_177x_8x.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5419F1DA)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h)(0x539FE932)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF470A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FC863A)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h)(0x4FF15BCA)

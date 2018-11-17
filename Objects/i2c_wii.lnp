@@ -1,0 +1,22 @@
+--cpu Cortex-M4.fp
+".\objects\font8x16.o"
+".\objects\font16x32.o"
+".\objects\glcd.o"
+".\objects\i2c0_lpc4088.o"
+".\objects\main.o"
+".\objects\nunchuk.o"
+".\objects\sdram.o"
+".\objects\timer0_lpc4088.o"
+".\objects\diskio.o"
+".\objects\ff.o"
+".\objects\rtc_lpc4088.o"
+".\objects\sd_lpc4088_mci.o"
+".\objects\soporte_nombres_largos.o"
+".\objects\dac_lpc4088.o"
+".\objects\sonido.o"
+".\objects\timer1_lpc4088.o"
+".\objects\startup_lpc407x_8x_177x_8x.o"
+".\objects\system_lpc407x_8x_177x_8x.o"
+--ro-base 0x00000000 --entry 0x00000000 --rw-base 0x10000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\i2c_wii.map" -o .\Objects\i2c_wii.axf
